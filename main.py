@@ -60,3 +60,5 @@ if __name__ == '__main__':
         csv_to_json()
     else:
         exit
+
+#here are some minor changes
